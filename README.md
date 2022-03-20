@@ -1,4 +1,5 @@
 # springboot01
+2022 스프링부트 스터디 (CODE-IT)
 
 ### 버전
 - Gradle-7.1
